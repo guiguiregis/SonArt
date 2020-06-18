@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4895747939683101503
+  m_GuidHigh: 12655823839419026623
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4662148550414605996
+      m_GuidHigh: 4819931063449931670
+    m_SerializedTextureGuid:
+      m_GuidLow: 6074442560085838149
+      m_GuidHigh: 6146839602239040154
+    m_Size: {x: 2, y: 1.3333334}
+    m_SpecifySize: 1
+    m_Name: sheep
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5736086607983830501
+      m_GuidHigh: 17633336510645888426
+    m_SerializedTextureGuid:
+      m_GuidLow: 15312276386106871343
+      m_GuidHigh: 12587935428612431176
+    m_Size: {x: 2, y: 1.335}
+    m_SpecifySize: 1
+    m_Name: snow
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5631747223973523789
+      m_GuidHigh: 11189469336631879821
+    m_SerializedTextureGuid:
+      m_GuidLow: 3782918291721821261
+      m_GuidHigh: 14281920668747884377
+    m_Size: {x: 2, y: 1.3263888}
+    m_SpecifySize: 1
+    m_Name: mountain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4723035987937565571
+      m_GuidHigh: 11150768331881586106
+    m_SerializedTextureGuid:
+      m_GuidLow: 2612474009088287251
+      m_GuidHigh: 17159565247118108329
+    m_Size: {x: 2, y: 1.3333334}
+    m_SpecifySize: 1
+    m_Name: water
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4918268990321299791
+      m_GuidHigh: 3648606664170521012
+    m_SerializedTextureGuid:
+      m_GuidLow: 14164745961307138351
+      m_GuidHigh: 14270513828130671050
+    m_Size: {x: 2, y: 2.6627219}
+    m_SpecifySize: 1
+    m_Name: road
+    m_Texture: {fileID: 0}
